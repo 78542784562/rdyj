@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+a:hover{
+    color:#006400;
+    background-color:#00FFFF;
+}
+footer {
+    position:fixed;
+    background-color:#ECDB9E;
+    padding: 10px;
+    font-size: 20px;
+    bottom:0px;
+    right:0px
+}
